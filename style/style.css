@@ -134,6 +134,7 @@
     font-weight: 700;
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
+    padding-top: 32px;;
 }
 .featureImage2 p{
     color: #272727;
@@ -144,6 +145,7 @@
     font-weight: 700;
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
+    padding-top: 32px;;
 }
 .featureImage3 p{
     color: #272727;
@@ -154,6 +156,7 @@
     font-weight: 700;
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
+    padding-top: 32px;;
 }
 
 /*  service  */
